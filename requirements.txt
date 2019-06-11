@@ -1,0 +1,5 @@
+Sastrawi
+pickle-mixin
+nltk
+numpy
+tweepy
